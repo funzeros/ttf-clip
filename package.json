@@ -1,0 +1,11 @@
+{
+  "name": "ttf-clip",
+  "version": "1.0.0",
+  "description": "字体裁剪",
+  "main": "index.js",
+  "scripts": {
+    "build": "node lib/index.js"
+  },
+  "author": "gems",
+  "license": "GPL-3.0"
+}
